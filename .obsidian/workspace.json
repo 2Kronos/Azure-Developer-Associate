@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/test.md",
+                "file": "1. Implement Azure App service web apps/1.1 Exlpore  Azure App Service/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Untitled"
             }
           }
         ]
@@ -183,9 +183,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "dfa3ffdfccc039dd",
+  "active": "bc4ab5f5ee2e7468",
   "lastOpenFiles": [
-    "test/test.md",
-    "test"
+    "6. Implement user authentication and authorization/6.1 Explore Microsoft Graph",
+    "3. Develop solutions that use Blob storage/Untitled.canvas",
+    "6. Implement user authentication and authorization",
+    "5. Implement containerized solutions/5.3  Implement Azure Container Apps",
+    "5. Implement containerized solutions/5.2  Manage container images in Container registery",
+    "5. Implement containerized solutions/5.1 Run container images in Azure container instances",
+    "4. Develop solutions that use Azure Cosmos DB/4.2  Work with Azure Cosmos DB",
+    "4. Develop solutions that use Azure Cosmos DB/4.1 Explore Azure Cosmos DB",
+    "3. Develop solutions that use Blob storage/3.3 Work with Azure Blob storage",
+    "3. Develop solutions that use Blob storage/3.2  Manage the Azure Blob storage lifecycle",
+    "3. Develop solutions that use Blob storage/3.1  Explore Azure Blob storage",
+    "1. Implement Azure App service web apps/1.1 Exlpore  Azure App Service/Untitled.md",
+    "3. Develop solutions that use Blob storage",
+    "test/test.md"
   ]
 }
