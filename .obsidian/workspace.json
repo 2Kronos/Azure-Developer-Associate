@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Implement Azure App service web apps/1.1 Exlpore  Azure App Service/Untitled.md",
+                "file": "1. Implement Azure App service web apps/1.1 Exlpore  Azure App Service/Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Intro"
             }
           }
         ]
@@ -183,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc4ab5f5ee2e7468",
+  "active": "dfa3ffdfccc039dd",
   "lastOpenFiles": [
     "6. Implement user authentication and authorization/6.1 Explore Microsoft Graph",
     "3. Develop solutions that use Blob storage/Untitled.canvas",
@@ -196,7 +196,7 @@
     "3. Develop solutions that use Blob storage/3.3 Work with Azure Blob storage",
     "3. Develop solutions that use Blob storage/3.2  Manage the Azure Blob storage lifecycle",
     "3. Develop solutions that use Blob storage/3.1  Explore Azure Blob storage",
-    "1. Implement Azure App service web apps/1.1 Exlpore  Azure App Service/Untitled.md",
+    "1. Implement Azure App service web apps/1.1 Exlpore  Azure App Service/Intro.md",
     "3. Develop solutions that use Blob storage",
     "test/test.md"
   ]
