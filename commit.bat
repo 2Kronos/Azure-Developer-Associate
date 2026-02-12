@@ -1,6 +1,6 @@
 @echo off
 :: Navigate to the project directory
-cd /d "C:\Users\n1cit\OneDrive - Cape Peninsula University of Technology\Documents\2KRONOS\Azure-Developer-Associate"
+cd /d "C:\Users\n1cit\OneDrive - Cape Peninsula University of Technology\Documents\2KRONOS\Solar powerd washing machine"
 
 
 if %ERRORLEVEL% neq 0 (
